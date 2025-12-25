@@ -1,2 +1,6 @@
-/target
+.github/
+target/
+docs/
+packaging/
 .DS_Store
+
