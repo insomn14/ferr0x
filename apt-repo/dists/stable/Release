@@ -1,0 +1,18 @@
+Origin: insomn14
+Label: insomn14 APT Repository
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: APT repository for ferr0x security testing tool
+Date: Thu, 25 Dec 2025 17:27:00 +0000
+MD5Sum:
+ f29f271840052cc6afc615b99aa3b839 529 main/binary-amd64/Packages.gz
+ 528410d346ba934a377ce6a33c8b1f15 834 main/binary-amd64/Packages
+SHA1:
+ fc800c5a6a8ae2933193e035e71467d6f84d89c4 529 main/binary-amd64/Packages.gz
+ 165952f0cc96f4c781c5f67af01dc2bbc9432082 834 main/binary-amd64/Packages
+SHA256:
+ 39f2a2d28f609a57868ee6a0a5635eb10b39ac6db4eefe9f71c4eb3814306e52 529 main/binary-amd64/Packages.gz
+ 4ba65511895f3efc37e40fcb1c192042685ed3b1997e55a7baf912866bae9d5a 834 main/binary-amd64/Packages

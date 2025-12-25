@@ -1,0 +1,26 @@
+Package: ferr0x
+Version: 1.0.0
+Architecture: amd64
+Maintainer: insomn14 <your-email@example.com>
+Installed-Size: 8128
+Filename: pool/main/f/ferr0x/ferr0x_1.0.0_amd64.deb
+Size: 1933256
+MD5sum: 6b99fa7fd85bc7db73fc3f8576e4497f
+SHA1: 63ca1d8780198c13f42012d02ee2b2d8c479f9d4
+SHA256: f0c36c09a265d8cd85e4bcb5576dc51de4e98c68b811fb4c89ce7c50210b200e
+Section: utils
+Priority: optional
+Homepage: https://github.com/insomn14/ferr0x
+Description: High-performance security testing tool for HTTP requests
+ ferr0x is a high-performance security testing tool written in Rust
+ for analyzing HTTP requests and identifying potential vulnerabilities.
+ .
+ Features:
+  - Header injection testing
+  - Parameter injection testing
+  - Path traversal testing
+  - HTTP methods testing
+  - Multi-threading support
+  - Proxy support
+  - Status code filtering
+
