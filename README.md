@@ -254,7 +254,7 @@ See `release/example-request.txt` for a template.
 
 > **Source code is not included in this repository.**
 >
-> If you wish to build from source, please refer to the private development repository or contact the maintainer for access.
+> If you wish to build from source, you can contact me for access.
 
 ---
 
