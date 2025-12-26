@@ -258,12 +258,6 @@ See `release/example-request.txt` for a template.
 
 ---
 
-## Contributing
-
-For source code contributions, please refer to the main development repository. This repository does not accept code contributions.
-
----
-
 ## Support
 
 For issues, questions, or feature requests, please open an issue on GitHub.
